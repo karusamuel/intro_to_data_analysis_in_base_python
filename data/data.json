@@ -1,0 +1,24 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "John",
+        "department": "Engineering",
+        "skills": ["Python", "Java", "C++"],
+        "projects": [
+          {"name": "Project A", "status": "Completed"},
+          {"name": "Project B", "status": "In Progress"}
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Alice",
+        "department": "Marketing",
+        "skills": ["Marketing Strategy", "Social Media"],
+        "projects": [
+          {"name": "Campaign X", "status": "Completed"},
+          {"name": "Campaign Y", "status": "In Progress"}
+        ]
+      }
+    ]
+  }
